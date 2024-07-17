@@ -87,6 +87,7 @@ set -q theme_mercurial_prompt_enabled; or set -g theme_mercurial_prompt_enabled 
 
 # ===========================
 # Virtual environmnet settings
+
 set -q theme_virtual_env_prompt_enabled; or set -g theme_virtual_env_prompt_enabled yes
 
 # ===========================
